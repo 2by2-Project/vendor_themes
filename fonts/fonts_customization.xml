@@ -360,4 +360,140 @@
         <font weight="900" style="italic">HarmonyOS-Sans-BlackItalic.ttf</font>
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
+
+    <family name="Exo2-Regular" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="Exo2-Regular">
+            Exo2-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="Exo2-Medium">
+            Exo2-Medium.ttf
+        </font>
+        <font weight="400" style="italic" postScriptName="Exo2-Italic">
+            Exo2-Italic.ttf
+        </font>
+    </family>
+    <family name="Exo2-Stacked" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="Exo2Stacked-Regular">
+            Exo2Stacked-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="Exo2Stacked-Medium">
+            Exo2Stacked-Medium.ttf
+        </font>
+    </family>
+    <family name="NotoSansSC" customizationType="new-named-family">
+        <font weight="100" style="normal" postScriptName="NotoSansSC-Thin">
+            NotoSansSC-Thin.otf
+        </font>
+        <font weight="300" style="normal" postScriptName="NotoSansSC-Light">
+            NotoSansSC-Light.otf
+        </font>
+        <font weight="400" style="normal" postScriptName="NotoSansSC-Regular">
+            NotoSansSC-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="NotoSansSC-Medium">
+            NotoSansSC-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="NotoSansSC-Bold">
+            NotoSansSC-Bold.ttf
+        </font>
+        <font weight="900" style="normal" postScriptName="NotoSansSC-Black">
+            NotoSansSC-Black.otf
+        </font>
+    </family>
+    <family name="RobotoSlab-Regular" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="RobotoSlab-Regular">
+            RobotoSlab-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="RobotoSlab-Medium">
+            RobotoSlab-Medium.ttf
+        </font>
+    </family>
+    <family name="RobotoSlab-Stacked" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="RobotoSlabStacked-Regular">
+            RobotoSlabStacked-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="RobotoSlabStacked-Medium">
+            RobotoSlabStacked-Medium.ttf
+        </font>
+    </family>
+    <family name="Rookery-Regular" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="RookeryNew-Regular">
+            RookeryNew-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="RookeryNew-Medium">
+            RookeryNew-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="RookeryNew-Bold">
+            RookeryNew-Bold.ttf
+        </font>
+        <font weight="400" style="italic" postScriptName="Rookery-Italic">
+            RookeryNew-Italic.otf
+        </font>
+    </family>
+    <family name="Rookery-Stacked" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="RookeryNewStacked-Regular">
+            RookeryNewStacked-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="RookeryNewStacked-Medium">
+            RookeryNewStacked-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="RookeryNewStacked-Bold">
+            RookeryNewStacked-Bold.ttf
+        </font>
+    </family>
+    <family name="Inter-Thin" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="Inter-Thin">
+            Inter-Thin.ttf
+        </font>
+    </family>
+    <family name="WorkSans" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="WorkSans-Regular">
+            WorkSans-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="WorkSans-Medium">
+            WorkSans-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="WorkSans-Bold">
+            WorkSans-Bold.ttf
+        </font>
+    </family>
+    <family name="WorkSans-Stacked" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="WorkSansStacked-Regular">
+            WorkSansStacked-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="WorkSansStacked-Medium">
+            WorkSansStacked-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="WorkSansStacked-Bold">
+            WorkSansStacked-Bold.ttf
+        </font>
+    </family>
+    <family name="SpaceGrotesk" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="SpaceGrotesk-Regular">
+            SpaceGrotesk-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="SpaceGrotesk-Medium">
+            SpaceGrotesk-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="SpaceGrotesk-Bold">
+            SpaceGrotesk-Bold.ttf
+        </font>
+    </family>
+    <family name="SpaceGrotesk-Stacked" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="SpaceGroteskStacked-Regular">
+            SpaceGroteskStacked-Regular.ttf
+        </font>
+        <font weight="500" style="normal" postScriptName="SpaceGroteskStacked-Medium">
+            SpaceGroteskStacked-Medium.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="SpaceGroteskStacked-Bold">
+            SpaceGroteskStacked-Bold.ttf
+        </font>
+    </family>
+    <!-- BEGIN Motorola, caihn, 2023-04-18, IKSWU-78 -->
+    <!-- add new font: regular & light -->
+    <family name="moto_time" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="Light">Newfont_Regular.ttf</font>
+    </family>
+    <!-- END IKSWU-78  -->
 </fonts-modification>
