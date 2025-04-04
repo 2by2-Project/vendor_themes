@@ -13,3 +13,6 @@ PRODUCT_PACKAGES += \
     FontOneplusSlateSourceOverlay \
     FontRobotoOverlay \
     FontUbuntuOverlay
+
+# Mejiro fonts
+$(call inherit-product, external/mejiro/fonts.mk)
