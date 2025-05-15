@@ -378,4 +378,9 @@
         <font weight="900" style="italic">HarmonyOS-Sans-BlackItalic.ttf</font>
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
+
+    <!-- 2by2 Additions -->
+    <family customizationType="new-named-family" name="dela-gothic-one">
+        <font weight="400" style="normal">DelaGothicOne-Regular.ttf</font>
+    </family>
 </fonts-modification>
